@@ -1,6 +1,6 @@
 # Ghost
 
-![Ghost](./images/ghost.jpg)
+![Ghost](../images/ghost.jpg)
 
 A powerful force over the weak mind.
 

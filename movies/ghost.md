@@ -1,6 +1,6 @@
 # Ghost
 
-![Ghost](./images/ghost-movie.jpg)
+![Ghost](../images/ghost-movie.jpg)
 
 James ussed to be a normal person, until one day fall of a ladder and injured his head. The injury lead to his brain suffer a very abnormal
 changes. The voice in his head started to talk to someone, but it wasn't him. The voice that used to be single in his head now got a friend,
